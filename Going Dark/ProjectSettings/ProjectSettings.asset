@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 36d9947ceb7df4d498f92fb0be5f1c95
+  productGUID: 82fe7b79323fb3844b7109009fd53123
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -635,10 +635,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 4308ad2b-ac0d-4d76-b13a-4f98fbf13bac
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: Going Dark
-  organizationId: naymo-and-zach-s-games
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
